@@ -1,0 +1,22 @@
+.form {
+  max-width: 500px;
+  border: 2px solid #000;
+  padding: 15px 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+input {
+  width: 50%;
+  height: 22px;
+  margin-bottom: 15px;
+}
+
+.addBtn {
+  width: 100px;
+}
